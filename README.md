@@ -3,7 +3,7 @@
 ### BEV Ground Truth Generation and Annotation Tool 
 BEV GTool is a program that supports generating GT (ground truth) of automotive scenarios consisting of a video sequence and radar measurement. Besides the annotation boxes in the space, the tool considers the object state in BEV (bird's-eye view) space as well. The application requires the detections provided by any 2D bounding box object detector run on the video frames. We suggest state-of-the-art deep-learning-based computer-vision algorithms such as Yolov4-P6. Since the application was designed in Matlab App Designer, it requires Matlab Runtime 9.11 installation. Anyone can use it for non-commercial purposes.
 
-![My image](https://github.com/lindenmaier94/BEV_GTool/blob/main/BEV_GTool_GUI.png)
+![My image](https://github.com/lindenmaier94/BEV_GTool/blob/main/BEV_GTool_GUI_demo.png)
 
 ### Download Latest Executable
 * [BEV GTool 1.0](https://github.com/lindenmaier94/BEV_GTool/releases/download/BEV_GTool_1_0/BEV_GTool_1_0.zip)

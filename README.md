@@ -6,7 +6,7 @@ BEV GTool is a program that supports generating GT (ground truth) of automotive 
 ![My image]([https://github.com/darkpgmr/DarkLabel/blob/master/image/darklabel_gui.png](https://github.com/lindenmaier94/BEV_GTool/blob/main/BEV_GTool_1_0.png))
 
 ### Download Latest Executable
-* [BEV GTool 1.0](https://github.com/lindenmaier94/BEV_GTool/blob/main/BEV_GTool_1_0.png)
+* [BEV GTool 1.0](https://github.com/lindenmaier94/BEV_GTool/blob/main/BEV_GTool_UI.png)
 (only binary executables can be downloaded)
 
 ### Main Features
